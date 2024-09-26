@@ -6,6 +6,9 @@ body{
 a:focus, a:hover{
   color: blue;
 }
+a:link{
+  color: maroon;
+}    
 header img{
   float: left;
 }
