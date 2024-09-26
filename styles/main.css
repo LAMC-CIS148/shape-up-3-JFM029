@@ -10,11 +10,13 @@ header h1{
   font-size: 250%;
   color: steelblue;
   text-indent: 50px;
+  font-style: italize
 }
 header h2{
   font-size: 150%;
   text-indent: 50px;
 }
 main{
-  
+  clear: left;
 }
+main 
