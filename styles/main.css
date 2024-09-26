@@ -3,6 +3,10 @@ body{
   font-family: Arial, Helvectica, sans-serif;
   font-size: 100%;
 }
+header h2{
+  font-size: 175%;
+  color: steelblue;
+}
 main{
   
 }
