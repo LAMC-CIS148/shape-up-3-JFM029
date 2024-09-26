@@ -9,12 +9,12 @@ a:focus, a:hover{
 header h1{
   font-size: 250%;
   color: steelblue;
-  text-indent: 75px;
+  text-indent: 80px;
   font-style: italic;
 }
 header h2{
   font-size: 150%;
-  text-indent: 75px;
+  text-indent: 80px;
 }
 main{
   clear: left;
